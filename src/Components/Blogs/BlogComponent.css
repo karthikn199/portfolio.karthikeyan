@@ -1,0 +1,38 @@
+.blog-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.blog-header {
+  position: relative;
+  overflow: hidden;
+}
+
+.blog-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+.blog-header h2 {
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+  margin: 0;
+  padding: 20px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: calc(100% - 40px);
+  border-radius: 0 0 8px 8px;
+  font-size: 1.5rem;
+}
+
+.blog-body {
+  padding: 20px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
