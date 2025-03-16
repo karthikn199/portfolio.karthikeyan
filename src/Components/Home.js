@@ -30,7 +30,7 @@ const Home = () => {
           <h1 className="AboutTextHeading">
             Brief <b>introduction</b>
           </h1>
-          <p>
+          {/* <p>
             I love the process of changing a raw idea into a website or a
             product that impacts lives. I want to do work that challenges me as
             a developer & work that I can be proud of.
@@ -42,7 +42,21 @@ const Home = () => {
             <br />
             Also, I love <b>coffee</b>{" "}
             <CiCoffeeCup style={{ scale: "1.5", rotate: "15deg" }} />
-          </p>
+          </p> */}
+          <p>
+  I enjoy transforming ideas into seamless, scalable, and efficient applications.  
+  As a <b>React.js</b> developer, I specialize in building dynamic and responsive user interfaces.  
+  Additionally, I work with <b>Spring Boot</b> and <b>SQL</b> to develop robust backend systems.  
+  <br />
+  <br />
+  I am always eager to explore new technologies and enhance my skill set. Currently, I am deepening my knowledge of <b>NodeJs</b> and <b>TypeScript</b>,  
+  while also exploring best practices in full-stack development.  
+  <br />
+  <br />
+  Also, I love <b>coffee</b>{" "}
+  <CiCoffeeCup style={{ scale: "1.5", rotate: "15deg" }} />
+</p>
+
         </div>
         <Tilt>
           {/* <img className="Avatar" src={Avatar} alt="" /> */}

@@ -11,13 +11,17 @@ const About = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
-            Hi, my name is <b>Karthikeyan</b> and I am from New Delhi, India.
-            I'm a <b>MERN stack web developer</b> and a final year college student pursuing <b>BTech in CSE</b>. <br/><br/>
-            I have done an internship as a <b>software developer</b> at GoalFi which is a fintech startup.
-            I love to create original projects with beautiful designs, you can check out some of my work in the projects section.<br/><br/>
-            I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from coding I love to do photography, you can check out some of my shots here <a href="https://www.instagram.com/devansh_sahni_/?hl=en" target='_blank'>Instagram.</a>
-          </p>
+  Hi, my name is <b>Karthikeyan</b>, and I’m a passionate <b>React.js developer</b> based in bangalore.  
+  I specialize in building dynamic, user-friendly web applications and occasionally work with <b>Spring Boot</b> and <b>SQL</b> on the backend.  
+  <br /><br />
+  I have experience working on real-world projects, including an internship as a <b>software developer</b> at a fintech startup.  
+  I love building scalable applications with clean, maintainable code. You can explore some of my work in the projects section.  
+  <br /><br />
+  I’m always open to <b>new opportunities</b> and collaborations where I can contribute and grow. Feel free to connect with me—links are in the footer.  
+  <br /><br />
+  Beyond coding, I enjoy photography and capturing creative moments. You can check out some of my shots <a href="https://www.instagram.com/devansh_sahni_/?hl=en" target='_blank'>here</a>.  
+</p>
+
         </div>
 
         <div>
