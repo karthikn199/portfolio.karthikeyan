@@ -26,7 +26,7 @@ const Resume = () => {
           />
         </Document>
 
-        <a href={pdf} target="_blank" download="Karthikn's Resume">
+        <a href={pdf} target="_blank" download="Karthikn's Resume" rel="noreferrer">
           <button className="downloadCV" type="button">
             <h3>
               <BsDownload />
