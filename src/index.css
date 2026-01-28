@@ -275,7 +275,7 @@ b {
   display: flex;
   justify-content: space-evenly;
   min-height: 80vh;
-  margin-top: 100px;
+  margin-top: 30px;
   align-items: center;
   padding: 25px;
 }
