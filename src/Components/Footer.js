@@ -28,7 +28,7 @@ const Footer = () => {
         <a href="mailTo:karthiknstr@gmail.com" target="_blank" rel="noreferrer">
           <GrMail />
         </a>
-        <a href="" target="_blank">
+        <a href="" target="_blank" rel="noreferrer">
           <SiLeetcode />
         </a>
         <a
