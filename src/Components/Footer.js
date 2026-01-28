@@ -1,6 +1,5 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { GrMail } from "react-icons/gr";
-import { SiLeetcode } from "react-icons/si";
 
 import { IoLogoInstagram } from "react-icons/io5";
 
@@ -27,9 +26,6 @@ const Footer = () => {
         </a>
         <a href="mailTo:karthiknstr@gmail.com" target="_blank" rel="noreferrer">
           <GrMail />
-        </a>
-        <a href="" target="_blank" rel="noreferrer">
-          <SiLeetcode />
         </a>
         <a
           href="https://www.instagram.com/karthi_kn_str/"
